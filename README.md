@@ -17,18 +17,14 @@ Chamo-me Enrique Ferreira da Silva, tenho 19 anos e sou natural de Alagoas. Conc
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 
-
----
-
 ### 📊 Estatísticas
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="(https://github-readme-stats.vercel.app/api?username=Henry-016&show_icons=true)" 
+    src="https://github-readme-stats.vercel.app/api?username=Henry-016&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
