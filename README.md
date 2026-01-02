@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👩🏻‍💻 Enrique Ferreira da Silva
 
-<!--
-**Henry-016/Henry-016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Computação`**
 
-Here are some ideas to get you started:
+Chamo-me Enrique Ferreira da Silva, tenho 19 anos e sou natural de Alagoas. Concluí o ensino médio na EEPPFR. Atualmente, estou cursando Ciência da Computação na UFAL. Amo jogar jogos e observar como foram feitos!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="(https://github-readme-stats.vercel.app/api?username=Henry-016&show_icons=true)" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200"
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-016&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
