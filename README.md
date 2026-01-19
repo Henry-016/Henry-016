@@ -8,24 +8,18 @@ Chamo-me Enrique Ferreira da Silva, tenho 19 anos e sou natural de Alagoas. Conc
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
+<img align="left" alt="C#" title="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
+<br clear="left"/>
+<br />
+
+---
 
 ### 📊 Estatísticas
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Henry-016&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Henry-016&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+</p>
 
 <img 
       align="left" 
